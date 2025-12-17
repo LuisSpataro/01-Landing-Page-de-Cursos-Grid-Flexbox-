@@ -1,0 +1,96 @@
+
+
+
+
+
+
+/*------------- Menu ---------------*/
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #EBEBAA;
+}
+
+#logo img{
+    width: 8rem;
+    height: auto;
+    padding-left: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#menu-nav{
+    padding-top: 3rem;
+}
+
+#menu-list{
+    display: flex;
+    width: 30rem;
+    justify-content: space-around;
+    list-style: none;
+
+}
+
+#menu-list li:hover{
+    color:blueviolet
+}
+
+/*-----------------Cuerpo Pagina----------------------*/
+
+
+main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/*------------------BANNER-------------------*/
+
+#banner{
+    height: 40rem;
+    width: 100%;
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    color: whitesmoke;
+}
+
+#banner h1{
+    font-size: 5rem;
+}
+
+#banner h2{
+    font-size: 3rem;
+}
+
+#bienvenida{
+    margin-top: 15rem;
+    padding-left: 10rem;
+}
+
+/*---------------------section nosotros----------------------*/
+
+#nosotros{
+    display: flex;
+    flex-direction: column;
+    height: 40rem;
+    width: 100%;
+    background-color:#EBEBAA;
+    padding-top: 4rem;
+}
+
+/*----------------------cursos-----------------*/
+
+#cursos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 4rem;
+
+
+}
+
+.tarjeta-curso{
+    padding: 3rem 3rem;
+    height: 25rem;
+    background-color: blueviolet;
+}

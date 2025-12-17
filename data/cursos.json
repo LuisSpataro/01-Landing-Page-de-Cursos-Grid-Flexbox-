@@ -1,0 +1,182 @@
+[
+  {
+    "nombre": "Python desde Cero",
+    "vacantes": 25,
+    "profesor": "Juan Pérez",
+    "dias": "Lunes y Miércoles",
+    "horario": "18:00 - 20:00",
+    "inicio": "2025-12-26",
+    "fin": "2026-02-10"
+  },
+  {
+    "nombre": "Introducción a Linux",
+    "vacantes": 30,
+    "profesor": "María González",
+    "dias": "Martes y Jueves",
+    "horario": "19:00 - 21:00",
+    "inicio": "2026-01-05",
+    "fin": "2026-02-20"
+  },
+  {
+    "nombre": "Administración de Sistemas Linux",
+    "vacantes": 18,
+    "profesor": "Carlos Fernández",
+    "dias": "Sábados",
+    "horario": "10:00 - 14:00",
+    "inicio": "2026-01-10",
+    "fin": "2026-03-07"
+  },
+  {
+    "nombre": "Docker y Contenedores",
+    "vacantes": 22,
+    "profesor": "Lucía Martínez",
+    "dias": "Lunes",
+    "horario": "20:00 - 22:00",
+    "inicio": "2026-01-12",
+    "fin": "2026-02-23"
+  },
+  {
+    "nombre": "DevOps Fundamentals",
+    "vacantes": 35,
+    "profesor": "Andrés Romero",
+    "dias": "Miércoles",
+    "horario": "18:30 - 21:30",
+    "inicio": "2026-01-14",
+    "fin": "2026-03-18"
+  },
+  {
+    "nombre": "Git y GitHub Profesional",
+    "vacantes": 28,
+    "profesor": "Sofía Luna",
+    "dias": "Martes",
+    "horario": "18:00 - 20:00",
+    "inicio": "2026-01-20",
+    "fin": "2026-02-24"
+  },
+  {
+    "nombre": "Redes para SysAdmin",
+    "vacantes": 20,
+    "profesor": "Ricardo Suárez",
+    "dias": "Jueves",
+    "horario": "19:00 - 22:00",
+    "inicio": "2026-01-22",
+    "fin": "2026-03-05"
+  },
+  {
+    "nombre": "Bash Scripting",
+    "vacantes": 17,
+    "profesor": "Valeria Ríos",
+    "dias": "Viernes",
+    "horario": "18:00 - 21:00",
+    "inicio": "2026-01-23",
+    "fin": "2026-02-27"
+  },
+  {
+    "nombre": "Python para SysAdmin",
+    "vacantes": 32,
+    "profesor": "Fernando Díaz",
+    "dias": "Lunes y Miércoles",
+    "horario": "21:00 - 22:30",
+    "inicio": "2026-01-26",
+    "fin": "2026-03-16"
+  },
+  {
+    "nombre": "Seguridad Informática Básica",
+    "vacantes": 27,
+    "profesor": "Natalia Acosta",
+    "dias": "Martes y Jueves",
+    "horario": "20:00 - 21:30",
+    "inicio": "2026-01-27",
+    "fin": "2026-03-12"
+  },
+  {
+    "nombre": "Introducción a Cloud Computing",
+    "vacantes": 38,
+    "profesor": "Diego Molina",
+    "dias": "Sábados",
+    "horario": "09:00 - 13:00",
+    "inicio": "2026-01-31",
+    "fin": "2026-03-21"
+  },
+  {
+    "nombre": "AWS para Principiantes",
+    "vacantes": 24,
+    "profesor": "Paula Benítez",
+    "dias": "Miércoles",
+    "horario": "19:00 - 22:00",
+    "inicio": "2026-02-04",
+    "fin": "2026-03-25"
+  },
+  {
+    "nombre": "Bases de Datos SQL",
+    "vacantes": 33,
+    "profesor": "Martín Salinas",
+    "dias": "Lunes",
+    "horario": "18:00 - 21:00",
+    "inicio": "2026-02-02",
+    "fin": "2026-03-23"
+  },
+  {
+    "nombre": "Python para Data Analysis",
+    "vacantes": 29,
+    "profesor": "Camila Ortega",
+    "dias": "Martes",
+    "horario": "19:00 - 22:00",
+    "inicio": "2026-02-03",
+    "fin": "2026-03-24"
+  },
+  {
+    "nombre": "Automatización con Ansible",
+    "vacantes": 19,
+    "profesor": "Javier Correa",
+    "dias": "Jueves",
+    "horario": "18:30 - 21:30",
+    "inicio": "2026-02-05",
+    "fin": "2026-03-19"
+  },
+  {
+    "nombre": "Introducción a Kubernetes",
+    "vacantes": 21,
+    "profesor": "Hernán Vega",
+    "dias": "Viernes",
+    "horario": "19:00 - 22:00",
+    "inicio": "2026-02-06",
+    "fin": "2026-03-20"
+  },
+  {
+    "nombre": "Monitoreo con Prometheus",
+    "vacantes": 16,
+    "profesor": "Laura Méndez",
+    "dias": "Sábados",
+    "horario": "14:00 - 18:00",
+    "inicio": "2026-02-07",
+    "fin": "2026-03-28"
+  },
+  {
+    "nombre": "CI/CD con GitHub Actions",
+    "vacantes": 26,
+    "profesor": "Pablo Navarro",
+    "dias": "Miércoles",
+    "horario": "20:00 - 22:00",
+    "inicio": "2026-02-11",
+    "fin": "2026-03-25"
+  },
+  {
+    "nombre": "Virtualización con Proxmox",
+    "vacantes": 23,
+    "profesor": "Esteban Ruiz",
+    "dias": "Martes",
+    "horario": "18:30 - 21:30",
+    "inicio": "2026-02-10",
+    "fin": "2026-03-24"
+  },
+  {
+    "nombre": "Introducción a DevSecOps",
+    "vacantes": 34,
+    "profesor": "Agustina Flores",
+    "dias": "Jueves",
+    "horario": "19:00 - 22:00",
+    "inicio": "2026-02-12",
+    "fin": "2026-03-26"
+  }
+]
